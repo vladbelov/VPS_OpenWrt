@@ -22,7 +22,7 @@ Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 1.  Upload OpenWrt firmware(WinSCP or prefer), rename it to `op.img.gz` 
 2.  Run command line below:
     ```Bash
-    bash -c "$(wget -O- https://git.io/JZOn0)"
+    bash -c "$(wget -O- https://github.com/vladbelov/VPS_OpenWrt/blob/main/vps_deploy.sh)"
     ```
     If you have problem with https certificate, then try this:
 
